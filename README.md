@@ -56,7 +56,8 @@ Developed by:PRIYANKA P RegisterNumber:24900671
 ![Screenshot 2024-12-07 082621](https://github.com/user-attachments/assets/481cfb71-33e5-4d6a-95ad-ffdba63ac5f1)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-![Screenshot 2024-12-07 082807](https://github.com/user-attachments/assets/4cba5da4-12fe-4e72-80f9-d37dccea4d50)
+![Screenshot 2024-12-10 112326](https://github.com/user-attachments/assets/ad6d675d-eea0-48e9-98b5-1a4ccda02111)
+
 
 **RESULTS**
  SISO Shift Register using verilog and validating their functionality using their functional tables are verified.
