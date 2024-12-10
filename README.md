@@ -6,7 +6,7 @@ To implement  SISO Shift Register using verilog and validating their functionali
 
 **SOFTWARE REQUIRED:**
 
-Quartus prime
+Quartus prime 
 
 **THEORY**
 
