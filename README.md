@@ -59,4 +59,4 @@ Developed by:PRIYANKA P RegisterNumber:24900671
 ![Screenshot 2024-12-07 082807](https://github.com/user-attachments/assets/4cba5da4-12fe-4e72-80f9-d37dccea4d50)
 
 **RESULTS**
- SISO Shift Register using verilog and validating their functionality using their functional tables are verified
+ SISO Shift Register using verilog and validating their functionality using their functional tables are verified.
